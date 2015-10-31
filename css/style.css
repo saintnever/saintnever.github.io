@@ -25,6 +25,7 @@ width
 }
 
 nav {
+margin:20px auto;
 width:100%;
 }
 
@@ -65,7 +66,7 @@ color: #444;
 #title {
 padding-left: 40px;
 padding-right: 40px;
-padding-top: 20px;
+padding-top: 0px;
 padding-bottom: 20px;
 text-align: center;
 vertical-align:middle;
