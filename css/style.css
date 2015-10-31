@@ -1,0 +1,177 @@
+article, section, aside, hgroup, nav, header, footer, figure, figcaption
+{
+display: block;
+}
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: #DFDBBB;
+}
+
+#wrapper {
+width: 60%;
+background-color: #DFDBBB;
+margin-left:20%;
+margin-right:20%;
+}
+
+header {
+height: 160px;
+}
+
+#logo {
+margin:10px auto;
+width 
+}
+
+nav {
+width:100%;
+}
+
+/* Navigation code from Listamatic
+http://css.maxdesign.com.au/listamatic/horizontal03.htm
+*/
+
+nav ul {
+padding-left: auto;
+margin-left: auto;
+color: #FFF;
+float: right;
+
+}
+
+nav ul li {
+display: inline; }
+
+nav ul li a {
+font-size: 1em;
+padding: 10px 16px;
+color: #444;
+text-decoration: none;
+float: right;
+
+}
+
+nav ul li a:hover {
+background-color: #444;
+color: #999;
+}
+
+.highlight a{
+font-weight: 900;
+color: #444;
+}
+
+#title {
+padding-left: 40px;
+padding-right: 40px;
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: center;
+vertical-align:middle;
+}
+
+#title h1{
+font-size: 50px;
+padding-top: 25px;
+}
+
+#content {
+padding-left: 40px;
+padding-right: 40px;
+padding-bottom: 20px;
+float: left;
+width: 40%;
+}
+
+#content h1{
+font-size: 24px;
+padding-top: 25px;
+}
+
+#content h2 {
+font-size: 18px;
+padding-top: 25px;
+font-weight: 200;
+}
+
+#content p{
+font-size: 12px;
+padding-top:15px;
+line-height:16px;
+}
+
+section {
+}
+
+article {
+}
+
+#rightcol {
+float: left;
+padding-left: 40px;
+width: 560px;
+}
+
+#rightcol h2 {
+font-size: 18px;
+padding-top: 25px;
+font-weight: 400;
+}
+
+#rightcol h3 {
+font-size: 16px;
+padding-top: 25px;
+font-weight: 200;
+}
+
+#rightcol p {
+font-size: 12px;
+}
+
+#leftcol {
+float: left;
+padding-left: 40px;
+width: 400px;
+}
+
+#leftcol h1{
+font-size: 24px;
+padding-top: 25px;
+}
+
+#leftcol h2 {
+font-size: 18px;
+padding-top: 25px;
+font-weight: 400;
+}
+
+#leftcol h3 {
+font-size: 16px;
+padding-top: 25px;
+font-weight: 200;
+}
+
+#leftcol p {
+font-size: 12px;
+}
+
+aside {
+}
+
+footer {
+clear:both;
+height: 50px;
+margin-top: 20px;
+}
+
+footer p {
+font-size: 11px;
+color:#333;
+padding-left: 40px;
+}
+
+footer a {
+color:#333;
+text-decoration:none;
+}
