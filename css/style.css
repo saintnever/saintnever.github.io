@@ -6,13 +6,22 @@ display: block;
 body {
 font-family: Arial, Helvetica, sans-serif;
 background-color: #DFDBBB;
+width:100%;
+display:-webkit-box;
+-webkit-box-pack:center;
 }
 
 #wrapper {
-width: 60%;
+max-width: 1000px;
 background-color: #DFDBBB;
-margin-left:20%;
-margin-right:20%;
+margin:20px auto;
+display:-webkit-box;
+-webkit-box-orient:vertical;
+}
+
+#bigwrap {
+-webkit-box-orient:horizontal;
+display:-webkit-box;
 }
 
 header {
@@ -21,7 +30,6 @@ height: 160px;
 
 #logo {
 margin:10px auto;
-width 
 }
 
 nav {
@@ -78,11 +86,12 @@ padding-top: 25px;
 }
 
 #content {
-padding-left: 40px;
-padding-right: 40px;
+min-width:250px;
+padding-left: 50px;
+padding-right: 20px;
 padding-bottom: 20px;
-float: left;
-width: 40%;
+text-align: justify;
+-webkit-box-flex: 8; 
 }
 
 #content h1{
@@ -111,6 +120,7 @@ article {
 #rightcol {
 float: left;
 padding-left: 40px;
+padding-bottom: 20px;
 width: 560px;
 }
 
@@ -131,9 +141,9 @@ font-size: 12px;
 }
 
 #leftcol {
-float: left;
-padding-left: 40px;
-width: 400px;
+padding-right: 100px;
+padding-bottom: 20px;
+-webkit-box-flex: 1; 
 }
 
 #leftcol h1{
@@ -163,13 +173,13 @@ aside {
 footer {
 clear:both;
 height: 50px;
-margin-top: 20px;
+margin-top: 100px;
 }
 
 footer p {
 font-size: 11px;
 color:#333;
-padding-left: 40px;
+padding-left: 0px;
 }
 
 footer a {
