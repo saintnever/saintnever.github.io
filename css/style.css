@@ -195,12 +195,13 @@ text-decoration:none;
       list-style: none;
       margin: 10px auto; padding:0;
       width: 100%; /* (200+10+4)x3 */
-      /*font-size: 0; /* fix inline-block spacing */
+      font-size: 0px; /* fix inline-block spacing */
     }
    .gallery ul{
 	  text-align:center;   
 	  display:table-cell;   
 	  vertical-align:middle;
+	  margin: 10px auto;
     }
     .gallery li{
         display: inline-block;
@@ -212,20 +213,23 @@ text-decoration:none;
         -moz-box-shadow: 0 2px 2px rgba(0,0,0,.1);
         -webkit-box-shadow: 0 2px 2px rgba(0,0,0,.1);
         box-shadow: 0 2px 2px rgba(0,0,0,.1);
-        -webkit-transition: all .25s ease;
-        -moz-transition: all .25s ease;
-        -ms-transition: all .25s ease;
-        -o-transition: all .25s ease;
-        transition: all .25s ease;        
+        -webkit-transition: all .2s ease;
+        -moz-transition: all .2s ease;
+        -ms-transition: all .2s ease;
+        -o-transition: all .2s ease;
+        transition: all .2s ease;        
     }
 
-    .gallery:hover li:not(:hover){       
+    /*.gallery:hover li:not(:hover){       
         -webkit-filter: blur(2px) grayscale(0);
         -moz-filter: blur(2px) grayscale(0);
         -o-filter: blur(2px) grayscale(0);
         -ms-filter: blur(2px) grayscale(0);
         filter: blur(2px) grayscale(0);
-        opacity: 0.7; /* fallback */        
+        opacity: 0.7;      
+    }*/
+	.gallery li:hover {       
+        font-size:16px;    
     }
 	.portfolio_text{
 		display: inline;
