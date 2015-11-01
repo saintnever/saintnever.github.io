@@ -13,6 +13,7 @@ display:-webkit-box;
 
 #wrapper {
 max-width: 1000px;
+min-width: 500px;
 background-color: #DFDBBB;
 margin:20px auto;
 display:-webkit-box;
