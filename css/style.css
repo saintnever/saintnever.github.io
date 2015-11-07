@@ -47,6 +47,8 @@ margin-left:20px;
 .two-third { width: 65.33%; }
 .one-third  { width: 30.66%; 	text-align:justify;}
 .one-fourth { width: 22%; }
+.one-fourth-left { width: 22%;float:left; position:relative; text-align:left;margin-right:4%;}
+.one-fourth-right { width: 22%;float:right; position:relative; text-align:right;margin-right:4%;}
 
 header {
 height: 160px;
@@ -97,17 +99,20 @@ color: #444;
 }
 
 #title {
-padding-left: 40px;
-padding-right: 40px;
-padding-top: 0px;
-padding-bottom: 20px;
-text-align: center;
+-webkit-box-orient:horizontal;
+display:-webkit-box;
+display:-moz-box;
+display:-o-box;
+display:box;
+-webkit-box-align:center;
 vertical-align:middle;
+margin-top:50px;
 }
 
 #title h1{
-font-size: 50px;
-padding-top: 25px;
+font-size: 40px;
+text-align: center;
+-webkit-box-align:center;
 }
 
 #content {
@@ -387,7 +392,6 @@ p{ word-wrap:break-word; word-break:normal; }
 
 /* SVG wrap */
 .svg-wrap {
-	display:block;
-	text-align:center;
-	padding-top: 100px;
+	display:inline;
+    width:10%;
 }
