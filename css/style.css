@@ -384,3 +384,10 @@ margin-left: -400%;
 
 
 p{ word-wrap:break-word; word-break:normal; }
+
+/* SVG wrap */
+.svg-wrap {
+	display:block;
+	text-align:center;
+	padding-top: 100px;
+}
