@@ -3,8 +3,15 @@ article, section, aside, hgroup, nav, header, footer, figure, figcaption
 display: block;
 }
 
+@font-face { 
+font-family: 'MyFont'; 
+src: url('../fonts/Trebuchet MS.tff'); 
+} 
+
 body {
-font-family: Arial, Helvetica, sans-serif;
+font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+/*font-family:"MyFont";*/
+line-height:20px;
 background-color: #DFDBBB;
 width:100%;
 display:-webkit-box;
@@ -31,6 +38,7 @@ box-orient:vertical;
 
 #bigwrap {
 -webkit-box-orient:horizontal;
+-webkit-box-pack:center;
 display:-webkit-box;
 display:-moz-box;
 display:-o-box;
@@ -41,12 +49,14 @@ margin-left:20px;
 /*--------------------------------------------------
 				      COLUMNS
 ---------------------------------------------------*/
-.one, .one-half, .two-third, .one-third, .one-fourth { float:left; position:relative; margin-right:4%; }
+.one, .one-half, .two-third, .one-third, .one-fourth {float:left; position:relative; margin-right:4%; }
 .one { width: 100%; margin-right: 0; }
 .one-half {	width: 48%; }
 .two-third { width: 65.33%; }
 .one-third  { width: 30.66%; 	text-align:justify;}
 .one-fourth { width: 22%; }
+.one-fourth-left { width: 22%;float:left; position:relative; text-align:left;margin-right:4%;}
+.one-fourth-right { width: 22%;float:right; position:relative; text-align:right;margin-right:4%;}
 
 header {
 height: 160px;
@@ -97,17 +107,21 @@ color: #444;
 }
 
 #title {
-padding-left: 40px;
-padding-right: 40px;
-padding-top: 0px;
-padding-bottom: 20px;
-text-align: center;
+-webkit-box-orient:horizontal;
+display:-webkit-box;
+display:-moz-box;
+display:-o-box;
+display:box;
+-webkit-box-align:center;
 vertical-align:middle;
+margin-top:50px;
+margin-bottom:50px;
 }
 
 #title h1{
 font-size: 50px;
-padding-top: 25px;
+text-align: center;
+-webkit-box-align:center;
 }
 
 #content {
@@ -121,8 +135,9 @@ font-size: 24px;
 }
 
 #content h2 {
+line-height:22px;
 font-size: 20px;
-font-weight: 200;
+font-weight: 100;
 }
 
 #content p{
@@ -225,7 +240,7 @@ text-decoration:none;
         display: inline-block;
         *display: inline;
         zoom: 1;
-        width: 200px; height: 150px;
+        width: 300px; height: 225px;
         margin: 20px;
         border: 5px solid #fff;
         -moz-box-shadow: 0 2px 2px rgba(0,0,0,.1);
@@ -292,6 +307,7 @@ color: #666;
 font-family: Arial; 
 transition: opacity 0.1s ease-out; 
 -webkit-transform: translateZ(0); 
+transform:translateZ(0);
 -webkit-transition: opacity 0.1s ease-out; 
 } 
 #sliders article .info h1{ 
@@ -383,3 +399,9 @@ margin-left: -400%;
 
 
 p{ word-wrap:break-word; word-break:normal; }
+
+/* SVG wrap */
+.svg-wrap {
+	display:inline;
+    width:10%;
+}
