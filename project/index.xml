@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Tengxiang ZHANG</title>
+    <link>https://txzhang.me/project/</link>
+      <atom:link href="https://txzhang.me/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://txzhang.me/project/</link>
+    </image>
+    
+    <item>
+      <title>Sensing Tags</title>
+      <link>https://txzhang.me/project/sensing/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://txzhang.me/project/sensing/</guid>
+      <description>&lt;p&gt;Interactive everyday objects are &amp;ldquo;technologies that weave themselves into the fabric of everyday life&amp;rdquo;, which can create an immersive interaction experience. However, users can still distinguish such computing enhanced objects, since they are usually expensive and require extra maintenances (e.g. replace batteries). Users can also be reluctant to replace existing objects for aesthetic or sentimental reasons. To overcome such limitations, I invent passive wireless sensors that can be easily deployed on existing everyday objects. The sensor&amp;rsquo;s many hardware components (e.g. power source, RF oscillator) and computation procedure (e.g. signal digitalization) are offloaded to one remote device. The cost, size, and power consumption of the sensors are then minimized. The small and thin form factor and the passive nature make them suitable for ubiquitous deployment on existing infrastructure and objects.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./intro.png&#34; /&gt;
+  &lt;figcaption&gt;&lt;i&gt;Figure 1. BitID sensors can be easily made (a), registered (b), and deployed (c) on a door to detect intrusion (d).&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls muted autoplay loop&gt;
+&lt;source src=&#34;./bitid_room.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;In &lt;strong&gt;BitID&lt;/strong&gt;, I propose to modify commercial-off-the-shelf (COTS) low-cost and passive UHF RFID tags to behave as sensors. By attaching shorting stubs to exposed antenna around the chip, the tag’s readability is modulated by the connection status of the shorting stubs. Users can easily make BitID sensors using only copper tape and scissors. When properly deployed, a BitID sensor can detect the binary states of an object. We deploy BitID sensors on six objects in a room to show its high scalability. The codes for the BitID sensing system is open sourced on 
+&lt;a href=&#34;https://github.com/AlexFxw/BitID&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. The RFID reader used in BitID is not widely available yet. So I look into opportunities to leverage more accessible computers (e.g. smart phone, smart ring) to power and compute for the resource-constrained sensors. In &lt;strong&gt;FlexTouch&lt;/strong&gt;, conductive tapes are attached to the touch screen of a smart phone to enable large-scale sensing (e.g. Yoga mat for posture detection). In &lt;strong&gt;ThermalRing&lt;/strong&gt;, I used a smart ring with a low-power thermal camera to recognize passive aluminum stickers for quick access.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Go to&lt;/em&gt; 
+&lt;a href=&#34;https://txzhang.me/project/smartring&#34;&gt;&lt;em&gt;Finger Wearables&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Go to&lt;/em&gt; 
+&lt;a href=&#34;https://txzhang.me/project/links&#34;&gt;&lt;em&gt;Interconnection Techniques&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finger Wearables</title>
+      <link>https://txzhang.me/project/smartring/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://txzhang.me/project/smartring/</guid>
+      <description>&lt;p&gt;Wearable devices are close and readily available to users, which can enable a spontaneous and consistent interaction experiences. Finger wearables can support a richer set of input gestures thanks to the dexterity of fingers. Also, they are usually the closet on-body devices to the interacting object, which makes them ideal candidates for resource sharing. However, finger wearables are challenging to design due to size constrains. The small size further limits the available computing, I/O, and power resources, which can impact interaction experience.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./mring.png&#34; /&gt;
+  &lt;figcaption&gt;&lt;i&gt;Figure 1. Users wrap the flexible ring band around the finger and align the magnetic connectors to wear the ring. I/O module are also connected with the main board and battery through the connectors. &lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;To overcome the resource constrains, I explored modular design for a smart ring (Figure 1). Instead of integrating various I/O functions into one piece of hardware, &lt;strong&gt;ModularRing&lt;/strong&gt; uses switchable I/O modules for interaction. The novel wearing design allows the I/O module to be separated from the wireless MCU and battery. Users can then switch the I/O module based on needs, and combine multiple rings with different I/O modules to create advanced interfaces. For example, a ring with a microphone module and a ring with a speaker module can work together as an audio interface. ModularRing won Finalist of 2018 Global Innovation Competition and is open sourced on 
+&lt;a href=&#34;https://github.com/saintnever/ModularRing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./thermalring.png&#34; /&gt;
+  &lt;figcaption&gt;&lt;i&gt;Figure 2. ThermalRing can recognize gestural inputs on flat surfaces and image passive tags by leveraging the heat radiated from hand. &lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;In &lt;strong&gt;ThermalRing&lt;/strong&gt;, I proposed a novel I/O module-a low-power low-resolution thermal camera for gesture and tag inputs. ThermalRing analyzes the heat silhouette of the hand to recognize drawing gestures on flat surfaces. I also proposed ThermalTag, passive tags that can be easily made using materials with high heat reflectivity (e.g. copper tape). When covered by hand, ThermalTag reflects the heat radiated from the hand and thus can be imaged. This demonstrates how the on-body wearables can work together with off-body tags for more interaction possibilities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Go to&lt;/em&gt; 
+&lt;a href=&#34;https://txzhang.me/project/sensing&#34;&gt;&lt;em&gt;Sensing Tags&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Go to&lt;/em&gt; 
+&lt;a href=&#34;https://txzhang.me/project/links&#34;&gt;&lt;em&gt;Interconnection Techniques&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interconnection Techniques</title>
+      <link>https://txzhang.me/project/links/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://txzhang.me/project/links/</guid>
+      <description>&lt;figure&gt;
+  &lt;img src=&#34;./touchpower.gif&#34; width=&#34;100%&#34; /&gt;
+  &lt;figcaption&gt;&lt;i&gt;Figure 1. TouchPower is an Interaction-based Power Transfer (IPT) technique. It transfers DC power through contact between electrodes on the glove and the object. &lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;To eliminate power maintenance demands, a power link can be established between on-body devices to off-body objects to transfer power. &lt;strong&gt;TouchPower&lt;/strong&gt; is an interaction-based power transfer technique that transfers on-body energy to off-body devices only during interaction. It is based on the observation that many devices do not need to be powered up when not used (e.g. computer mouse, remote controller). By adding conductive contacts on different parts of the hand, the power transfer can happen during the interaction without disrupting the original efforts. Other power transfer systems are also discussed.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./intro.png&#34; /&gt;
+  &lt;figcaption&gt;&lt;i&gt;Figure 2. Tap-to-Pair enables wireless device association with minimal resource requirements. &lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I also designed novel cross-device association techniques, which establish communication links between devices. &lt;strong&gt;Tap-to-Pair&lt;/strong&gt; provides a spontaneous device association experience by leveraging the wireless signal. To further understand the synchronous pairing method, we proposed a 2D design dimension and corresponding design spaces for the blinking patterns. We also demonstrated that such technique can work without visual blinking patterns when there are only few target devices.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Go to&lt;/em&gt; 
+&lt;a href=&#34;https://txzhang.me/project/sensing&#34;&gt;&lt;em&gt;Sensing Tags&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Go to&lt;/em&gt; 
+&lt;a href=&#34;https://txzhang.me/project/smartring&#34;&gt;&lt;em&gt;Finger Wearables&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
