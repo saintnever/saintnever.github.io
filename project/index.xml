@@ -39,7 +39,7 @@
       <link>https://txzhang.me/project/smartring/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://txzhang.me/project/smartring/</guid>
-      <description>&lt;p&gt;Wearable devices are close and readily available to users, which can enable a spontaneous and consistent interaction experiences. Finger wearables can support a richer set of input gestures thanks to the dexterity of fingers. Also, they are usually the closet on-body devices to the interacting object, which makes them ideal candidates for resource sharing. However, finger wearables are challenging to design due to size constrains. The small size further limits the available computing, I/O, and power resources, which can impact interaction experience.&lt;/p&gt;
+      <description>&lt;p&gt;Wearable devices are close and readily available to users, which enables a spontaneous and consistent interaction experiences. Finger wearables can support a richer set of input gestures thanks to the dexterity of fingers. Also, they are usually the closet on-body devices to the interacting object, which makes them ideal candidates for resource sharing. However, finger wearables are challenging to design due to size constrains. The small size further limits the available computing, I/O, and power resources, which can impact interaction experience.&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src=&#34;./mring.png&#34; /&gt;
   &lt;figcaption&gt;&lt;i&gt;Figure 1. Users wrap the flexible ring band around the finger and align the magnetic connectors to wear the ring. I/O module are also connected with the main board and battery through the connectors. &lt;/i&gt;&lt;/figcaption&gt;
@@ -63,7 +63,7 @@
       <link>https://txzhang.me/project/links/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://txzhang.me/project/links/</guid>
-      <description>&lt;p&gt;Currently, most interaction interfaces are designed for powerful and independent computing devices, which adopts a device-centered design approach. A human-centered pervasive interface, however, requires seamless interconnection among devices for both energy and information sharing. For example, all involved devices should be notified of the user&amp;rsquo;s intention to offer guidance, complete task, and provide feedback.&lt;/p&gt;
+      <description>&lt;p&gt;Currently, most interaction interfaces are designed for powerful and independent computing devices, which adopts a device-centered design approach. A human-centered pervasive interface, however, requires seamless interconnection among devices for resource redistribution. By allocating energy, computation, and interaction resources based on needs, the design of the interfaces can be more flexible and thus truly be woven into the fabric of everyday life.&lt;/p&gt;
 &lt;!-- The power and information interconnections are the underlying infrastructure, on top of which interaction techniques can be implemented.   --&gt;
 &lt;figure&gt;
   &lt;img src=&#34;./touchpower.gif&#34; width=&#34;100%&#34; /&gt;
