@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://txzhang.me/publication_types/1/</loc>
+    <loc>https://txzhang.me/publication_types/3/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,6 +70,11 @@
   <url>
     <loc>https://txzhang.me/tags/wireless/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/publication_types/1/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -178,6 +183,41 @@
   </url>
   
   <url>
+    <loc>https://txzhang.me/publication_types/8/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/publication/p_prothesis_2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/publication/p_smartring_2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/publication/p_smartring1_2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/tags/accessibility/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/publication/p_vein_2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/authors/jiayuan-gao/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://txzhang.me/publication_types/2/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -194,11 +234,6 @@
   
   <url>
     <loc>https://txzhang.me/tags/iot/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://txzhang.me/authors/jiayuan-gao/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -260,6 +295,21 @@
   <url>
     <loc>https://txzhang.me/project/smartring/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/tags/association/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/publication/p_tap2pair_2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://txzhang.me/publication/p_smartring_2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
