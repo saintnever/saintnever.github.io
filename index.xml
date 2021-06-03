@@ -234,9 +234,9 @@
     
     <item>
       <title>Sensing Tags</title>
-      <link>https://txzhang.me/project/sensing/</link>
+      <link>https://txzhang.me/project_bak/sensing/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/project/sensing/</guid>
+      <guid>https://txzhang.me/project_bak/sensing/</guid>
       <description>&lt;p&gt;Interactive everyday things are essential for ubiquitous sensing and interaction. Replace existing things with battery-powered ‘smart’ things is not sustainable, since the large amount of batteries would introduce huge maintenance efforts and cause significant damage to the environment. So, I develop maintenance and battery free wireless sensing tags that can be easily deployed on existing everyday things. The sensor’s many hardware components (e.g. power source, RF oscillator) and functions (e.g. signal digitalization) are offloaded to a remote resource-abundant computer. The cost, size, and power consumption of such sensors are then minimized, which makes them suitable for ubiquitous deployment on existing infrastructure and objects.&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src=&#34;./intro.png&#34; /&gt;
@@ -278,9 +278,9 @@
     
     <item>
       <title>Finger Wearables</title>
-      <link>https://txzhang.me/project/smartring/</link>
+      <link>https://txzhang.me/project_bak/smartring/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/project/smartring/</guid>
+      <guid>https://txzhang.me/project_bak/smartring/</guid>
       <description>&lt;p&gt;Finger wearables can support accessible and subtle gesture inputs. They are also close to the interacting object, which makes them ideal for resource sharing. However, finger wearables are challenging to design due to their size constrains. The small size further limits the available computing, I/O, and power resources on such computers.&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src=&#34;./mring.png&#34; /&gt;
@@ -390,9 +390,9 @@
     
     <item>
       <title>Interconnection</title>
-      <link>https://txzhang.me/project/links/</link>
+      <link>https://txzhang.me/project_bak/links/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/project/links/</guid>
+      <guid>https://txzhang.me/project_bak/links/</guid>
       <description>&lt;p&gt;Currently, interactions are typically centered around powerful and independent computing devices. A pervasive interface requires interactive everyday things, which will introduce unacceptable deployment and maintenance efforts. Interconnection techniques reduce such efforts by enabling users to redistribute energy, computation, and I/O resources among computers and everyday things. Only necessary functions like sensing and feedback are kept on the resource-constrained things, while demanding functions like computing and power are offloaded to the resource-abundant computers.&lt;/p&gt;
 &lt;!-- The power and information interconnections are the underlying infrastructure, on top of which interaction techniques can be implemented.   --&gt;
 &lt;figure&gt;
