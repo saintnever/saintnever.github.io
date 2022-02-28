@@ -5,12 +5,34 @@
     <link>https://txzhang.me/publication/</link>
       <atom:link href="https://txzhang.me/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022. Tengxiang Zhang</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022. Tengxiang Zhang</copyright><lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://txzhang.me/publication/</link>
     </image>
+    
+    <item>
+      <title>Easily Add Battery-free Wireless Sensors to Everyday Objects: System Implementation and Usability Study</title>
+      <link>https://txzhang.me/publication/bitid_journal22/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://txzhang.me/publication/bitid_journal22/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>ScreenJump: An AR-facilitated User-centric Interaction System for Fine-grained Resource Manipulation Across Displays</title>

@@ -2,37 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://txzhang.me/publication_types/3/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
+    <loc>https://txzhang.me/publication_types/2/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/authors/__tengxiang-zhang__/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/authors/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/publication/bitid_journal22/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/authors/hsuan-wei-fan/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/authors/jie-ren/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/publication_types/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/publication/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/tags/rfid/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/tags/sensing/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/tags/tag/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/tags/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/tags/ultra-low-power/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/tags/wireless/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/authors/yuanchun-shi/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/authors/yuntao-wang/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/authors/zi-qian/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://txzhang.me/publication_types/3/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/tags/ar/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://txzhang.me/authors/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://txzhang.me/tags/cross-device-interaction/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/publication_types/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/publication/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/tags/screen-camera-communication/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/publication/screenjump_workshop/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/tags/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/authors/xin-zeng/</loc>
@@ -53,19 +89,7 @@
     <loc>https://txzhang.me/publication/backscatter_workshop20/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://txzhang.me/tags/sensing/</loc>
-    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://txzhang.me/authors/steve-hodges/</loc>
-    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/tags/tag/</loc>
-    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/tags/ultra-low-power/</loc>
-    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/tags/wireless/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/publication_types/1/</loc>
@@ -87,9 +111,6 @@
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/authors/yinshuai-zhang/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/authors/yuntao-wang/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/authors/chun-yu/</loc>
@@ -119,9 +140,6 @@
     <loc>https://txzhang.me/tags/vr/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://txzhang.me/authors/yuanchun-shi/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://txzhang.me/authors/zhengyi-cao/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -145,9 +163,6 @@
   </url><url>
     <loc>https://txzhang.me/authors/jiayuan-gao/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/publication_types/2/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/tags/bayesian/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
@@ -213,9 +228,6 @@
     <lastmod>2017-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/publication/bitid17/</loc>
-    <lastmod>2017-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://txzhang.me/tags/rfid/</loc>
     <lastmod>2017-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://txzhang.me/authors/yuan-zhou/</loc>
