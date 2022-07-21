@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>__Tengxiang Zhang__ | Tengxiang ZHANG</title>
-    <link>https://txzhang.me/authors/__tengxiang-zhang__/</link>
-      <atom:link href="https://txzhang.me/authors/__tengxiang-zhang__/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://txzhang.info/authors/__tengxiang-zhang__/</link>
+      <atom:link href="https://txzhang.info/authors/__tengxiang-zhang__/index.xml" rel="self" type="application/rss+xml" />
     <description>__Tengxiang Zhang__</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022. Tengxiang Zhang</copyright><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>__Tengxiang Zhang__</title>
-      <link>https://txzhang.me/authors/__tengxiang-zhang__/</link>
+      <link>https://txzhang.info/authors/__tengxiang-zhang__/</link>
     </image>
     
     <item>
       <title>BoldMove: Enabling IoT Device Control on Ubiquitous Touch Interfaces by Semantic Mapping and Sequential Selection</title>
-      <link>https://txzhang.me/publication/boldmove_chi22ea/</link>
+      <link>https://txzhang.info/publication/boldmove_chi22ea/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/boldmove_chi22ea/</guid>
+      <guid>https://txzhang.info/publication/boldmove_chi22ea/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -36,9 +36,9 @@
     
     <item>
       <title>Easily Add Battery-free Wireless Sensors to Everyday Objects: System Implementation and Usability Study</title>
-      <link>https://txzhang.me/publication/bitid_journal22/</link>
+      <link>https://txzhang.info/publication/bitid_journal22/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/bitid_journal22/</guid>
+      <guid>https://txzhang.info/publication/bitid_journal22/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -58,9 +58,9 @@
     
     <item>
       <title>ScreenJump: An AR-facilitated User-centric Interaction System for Fine-grained Resource Manipulation Across Displays</title>
-      <link>https://txzhang.me/publication/screenjump_workshop/</link>
+      <link>https://txzhang.info/publication/screenjump_workshop/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/screenjump_workshop/</guid>
+      <guid>https://txzhang.info/publication/screenjump_workshop/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -80,9 +80,9 @@
     
     <item>
       <title>New Opportunities for Sustainable Interaction Using Backscatter Sensors</title>
-      <link>https://txzhang.me/publication/backscatter_workshop20/</link>
+      <link>https://txzhang.info/publication/backscatter_workshop20/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/backscatter_workshop20/</guid>
+      <guid>https://txzhang.info/publication/backscatter_workshop20/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -102,9 +102,9 @@
     
     <item>
       <title>ThermalRing: Gesture and Tag Inputs Enabled by a Thermal Imaging Smart Ring</title>
-      <link>https://txzhang.me/publication/thermalring20/</link>
+      <link>https://txzhang.info/publication/thermalring20/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/thermalring20/</guid>
+      <guid>https://txzhang.info/publication/thermalring20/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -124,9 +124,9 @@
     
     <item>
       <title>MoveVR：Enabling Multiform Force Feedback in Virtual Reality using Household Cleaning Robot</title>
-      <link>https://txzhang.me/publication/movevr20/</link>
+      <link>https://txzhang.info/publication/movevr20/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/movevr20/</guid>
+      <guid>https://txzhang.info/publication/movevr20/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -146,9 +146,9 @@
     
     <item>
       <title>A Movement Symmetry Based Smart Prosthesis Control Method and System </title>
-      <link>https://txzhang.me/publication/p_prothesis_2020/</link>
+      <link>https://txzhang.info/publication/p_prothesis_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/p_prothesis_2020/</guid>
+      <guid>https://txzhang.info/publication/p_prothesis_2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -168,9 +168,9 @@
     
     <item>
       <title>A Smart Ring based Gesture Recognition Method and System</title>
-      <link>https://txzhang.me/publication/p_smartring_2020/</link>
+      <link>https://txzhang.info/publication/p_smartring_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/p_smartring_2020/</guid>
+      <guid>https://txzhang.info/publication/p_smartring_2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -190,9 +190,9 @@
     
     <item>
       <title>Apparatus and Method for Cognitive Load Analysis Based on Near-infrared Imaging of Subcutaneous Veins </title>
-      <link>https://txzhang.me/publication/p_vein_2020/</link>
+      <link>https://txzhang.info/publication/p_vein_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/p_vein_2020/</guid>
+      <guid>https://txzhang.info/publication/p_vein_2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -212,9 +212,9 @@
     
     <item>
       <title>Facilitating Temporal Synchronous Target Selection through User Behavior Modeling</title>
-      <link>https://txzhang.me/publication/flysync19/</link>
+      <link>https://txzhang.info/publication/flysync19/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/flysync19/</guid>
+      <guid>https://txzhang.info/publication/flysync19/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -234,9 +234,9 @@
     
     <item>
       <title>FlexTouch: Enabling Large-Scale Interaction Sensing Beyond Touchscreens Using Flexible and Conductive Materials</title>
-      <link>https://txzhang.me/publication/flextouch19/</link>
+      <link>https://txzhang.info/publication/flextouch19/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/flextouch19/</guid>
+      <guid>https://txzhang.info/publication/flextouch19/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -256,9 +256,9 @@
     
     <item>
       <title>Tap-to-Pair: Associating Wireless Devices with Synchronous Tapping</title>
-      <link>https://txzhang.me/publication/taptopair18/</link>
+      <link>https://txzhang.info/publication/taptopair18/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/taptopair18/</guid>
+      <guid>https://txzhang.info/publication/taptopair18/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -278,9 +278,9 @@
     
     <item>
       <title>Pairing method and wireless device for pairing using wireless signals</title>
-      <link>https://txzhang.me/publication/p_tap2pair_2018/</link>
+      <link>https://txzhang.info/publication/p_tap2pair_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/p_tap2pair_2018/</guid>
+      <guid>https://txzhang.info/publication/p_tap2pair_2018/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -300,9 +300,9 @@
     
     <item>
       <title>Smart Ring and its Wearing Method</title>
-      <link>https://txzhang.me/publication/p_smartring_2018/</link>
+      <link>https://txzhang.info/publication/p_smartring_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/p_smartring_2018/</guid>
+      <guid>https://txzhang.info/publication/p_smartring_2018/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -322,9 +322,9 @@
     
     <item>
       <title>TouchPower: Interaction-based Power Transfer for Power-as-needed Devices</title>
-      <link>https://txzhang.me/publication/touchpower17/</link>
+      <link>https://txzhang.info/publication/touchpower17/</link>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/touchpower17/</guid>
+      <guid>https://txzhang.info/publication/touchpower17/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -345,9 +345,9 @@
     
     <item>
       <title>BitID: Easily Add Battery-free Wireless Sensors to Everyday Objects</title>
-      <link>https://txzhang.me/publication/bitid17/</link>
+      <link>https://txzhang.info/publication/bitid17/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/bitid17/</guid>
+      <guid>https://txzhang.info/publication/bitid17/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -367,9 +367,9 @@
     
     <item>
       <title>Three-dimensional Gradient-index Materials and Their Applications in Microwave Lens Antennas</title>
-      <link>https://txzhang.me/publication/metamaterial13/</link>
+      <link>https://txzhang.info/publication/metamaterial13/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/metamaterial13/</guid>
+      <guid>https://txzhang.info/publication/metamaterial13/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

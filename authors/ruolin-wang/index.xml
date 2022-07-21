@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruolin Wang | Tengxiang ZHANG</title>
-    <link>https://txzhang.me/authors/ruolin-wang/</link>
-      <atom:link href="https://txzhang.me/authors/ruolin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://txzhang.info/authors/ruolin-wang/</link>
+      <atom:link href="https://txzhang.info/authors/ruolin-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruolin Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022. Tengxiang Zhang</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ruolin Wang</title>
-      <link>https://txzhang.me/authors/ruolin-wang/</link>
+      <link>https://txzhang.info/authors/ruolin-wang/</link>
     </image>
     
     <item>
       <title>Facilitating Temporal Synchronous Target Selection through User Behavior Modeling</title>
-      <link>https://txzhang.me/publication/flysync19/</link>
+      <link>https://txzhang.info/publication/flysync19/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/flysync19/</guid>
+      <guid>https://txzhang.info/publication/flysync19/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Tap-to-Pair: Associating Wireless Devices with Synchronous Tapping</title>
-      <link>https://txzhang.me/publication/taptopair18/</link>
+      <link>https://txzhang.info/publication/taptopair18/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/taptopair18/</guid>
+      <guid>https://txzhang.info/publication/taptopair18/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

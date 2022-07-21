@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag | Tengxiang ZHANG</title>
-    <link>https://txzhang.me/tags/tag/</link>
-      <atom:link href="https://txzhang.me/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://txzhang.info/tags/tag/</link>
+      <atom:link href="https://txzhang.info/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <description>tag</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022. Tengxiang Zhang</copyright><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>tag</title>
-      <link>https://txzhang.me/tags/tag/</link>
+      <link>https://txzhang.info/tags/tag/</link>
     </image>
     
     <item>
       <title>BoldMove: Enabling IoT Device Control on Ubiquitous Touch Interfaces by Semantic Mapping and Sequential Selection</title>
-      <link>https://txzhang.me/publication/boldmove_chi22ea/</link>
+      <link>https://txzhang.info/publication/boldmove_chi22ea/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/boldmove_chi22ea/</guid>
+      <guid>https://txzhang.info/publication/boldmove_chi22ea/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -36,9 +36,9 @@
     
     <item>
       <title>Easily Add Battery-free Wireless Sensors to Everyday Objects: System Implementation and Usability Study</title>
-      <link>https://txzhang.me/publication/bitid_journal22/</link>
+      <link>https://txzhang.info/publication/bitid_journal22/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/bitid_journal22/</guid>
+      <guid>https://txzhang.info/publication/bitid_journal22/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -58,9 +58,9 @@
     
     <item>
       <title>New Opportunities for Sustainable Interaction Using Backscatter Sensors</title>
-      <link>https://txzhang.me/publication/backscatter_workshop20/</link>
+      <link>https://txzhang.info/publication/backscatter_workshop20/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/backscatter_workshop20/</guid>
+      <guid>https://txzhang.info/publication/backscatter_workshop20/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -80,9 +80,9 @@
     
     <item>
       <title>ThermalRing: Gesture and Tag Inputs Enabled by a Thermal Imaging Smart Ring</title>
-      <link>https://txzhang.me/publication/thermalring20/</link>
+      <link>https://txzhang.info/publication/thermalring20/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/thermalring20/</guid>
+      <guid>https://txzhang.info/publication/thermalring20/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -102,9 +102,9 @@
     
     <item>
       <title>FlexTouch: Enabling Large-Scale Interaction Sensing Beyond Touchscreens Using Flexible and Conductive Materials</title>
-      <link>https://txzhang.me/publication/flextouch19/</link>
+      <link>https://txzhang.info/publication/flextouch19/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/flextouch19/</guid>
+      <guid>https://txzhang.info/publication/flextouch19/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -124,9 +124,9 @@
     
     <item>
       <title>BitID: Easily Add Battery-free Wireless Sensors to Everyday Objects</title>
-      <link>https://txzhang.me/publication/bitid17/</link>
+      <link>https://txzhang.info/publication/bitid17/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/bitid17/</guid>
+      <guid>https://txzhang.info/publication/bitid17/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>backscatter | Tengxiang ZHANG</title>
-    <link>https://txzhang.me/tags/backscatter/</link>
-      <atom:link href="https://txzhang.me/tags/backscatter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://txzhang.info/tags/backscatter/</link>
+      <atom:link href="https://txzhang.info/tags/backscatter/index.xml" rel="self" type="application/rss+xml" />
     <description>backscatter</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022. Tengxiang Zhang</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>backscatter</title>
-      <link>https://txzhang.me/tags/backscatter/</link>
+      <link>https://txzhang.info/tags/backscatter/</link>
     </image>
     
     <item>
       <title>New Opportunities for Sustainable Interaction Using Backscatter Sensors</title>
-      <link>https://txzhang.me/publication/backscatter_workshop20/</link>
+      <link>https://txzhang.info/publication/backscatter_workshop20/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/backscatter_workshop20/</guid>
+      <guid>https://txzhang.info/publication/backscatter_workshop20/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

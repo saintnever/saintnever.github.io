@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xin Yi | Tengxiang ZHANG</title>
-    <link>https://txzhang.me/authors/xin-yi/</link>
-      <atom:link href="https://txzhang.me/authors/xin-yi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://txzhang.info/authors/xin-yi/</link>
+      <atom:link href="https://txzhang.info/authors/xin-yi/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Yi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022. Tengxiang Zhang</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Xin Yi</title>
-      <link>https://txzhang.me/authors/xin-yi/</link>
+      <link>https://txzhang.info/authors/xin-yi/</link>
     </image>
     
     <item>
       <title>Facilitating Temporal Synchronous Target Selection through User Behavior Modeling</title>
-      <link>https://txzhang.me/publication/flysync19/</link>
+      <link>https://txzhang.info/publication/flysync19/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/flysync19/</guid>
+      <guid>https://txzhang.info/publication/flysync19/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Tap-to-Pair: Associating Wireless Devices with Synchronous Tapping</title>
-      <link>https://txzhang.me/publication/taptopair18/</link>
+      <link>https://txzhang.info/publication/taptopair18/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/taptopair18/</guid>
+      <guid>https://txzhang.info/publication/taptopair18/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>Pairing method and wireless device for pairing using wireless signals</title>
-      <link>https://txzhang.me/publication/p_tap2pair_2018/</link>
+      <link>https://txzhang.info/publication/p_tap2pair_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/p_tap2pair_2018/</guid>
+      <guid>https://txzhang.info/publication/p_tap2pair_2018/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -80,9 +80,9 @@
     
     <item>
       <title>TouchPower: Interaction-based Power Transfer for Power-as-needed Devices</title>
-      <link>https://txzhang.me/publication/touchpower17/</link>
+      <link>https://txzhang.info/publication/touchpower17/</link>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://txzhang.me/publication/touchpower17/</guid>
+      <guid>https://txzhang.info/publication/touchpower17/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
