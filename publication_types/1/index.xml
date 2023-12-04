@@ -5,12 +5,34 @@
     <link>https://txzhang.info/publication_types/1/</link>
       <atom:link href="https://txzhang.info/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023. Tengxiang Zhang</copyright><lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023. Tengxiang Zhang</copyright><lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://txzhang.info/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents</title>
+      <link>https://txzhang.info/publication/gesturegpt/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://txzhang.info/publication/gesturegpt/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>BoldMove: Enabling IoT Device Control on Ubiquitous Touch Interfaces by Semantic Mapping and Sequential Selection</title>
