@@ -544,5 +544,17 @@
 &lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://txzhang.info/authors/tx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://txzhang.info/authors/tx/</guid>
+      <description>&lt;p&gt;Tengxiang Zhang is an Research Associate Professor at Institute of Computing Technology, Chinese Academy of Sciences, where he works at the Pervasive Computing Research Center. With a background in both CS and EE, Dr. Zhang&amp;rsquo;s research lies in the technical side of ubiquitous computing and human computer interaction. His work enables access to the digital world anytime anywhere by developing wearable sensors, IoT tags, and AI-agent-based interfaces. He publishes on top-venues including 
+&lt;a href=&#34;https://dl.acm.org/conference/chi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHI&lt;/a&gt; and 
+&lt;a href=&#34;https://dl.acm.org/journal/imwut&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMWUT&lt;/a&gt;, and has been honored with two paper awards. He serves on the SIGCHI Sustainability Committee and the CCF HCI and Ubicomp Technical Committees. His work falls into three categories: 1) Wearable and skin sensors, 2) Ultra-low-power IoT tags and localization systems, 3) AI-agent-based interaction interfaces.&lt;/p&gt;
+ &lt;!-- focuses on Human-computer Interaction, Ubiquitous Computing, and Applied Machine Learning during his PhD at Tsinghua University, when he was advised by [Prof. Yuanchun Shi](https://pi.cs.tsinghua.edu.cn). He also has a deep understanding of electromagnetics advised by [Prof. Andrea Alu](http://www.alulab.org/) at UT Austin and [Prof. Tiejun Cui](https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;hl=en) at Southeast University. He has 10+ publications at top venues including SIGCHI and IMWUT. Please read the Research Interests section for a thorough overview of my research and previous work.  --&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

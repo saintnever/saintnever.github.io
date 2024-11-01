@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="&lt;font color=&#34;#953100&#34;&gt;&lt;b&gt;arxiv. &lt;/b&gt;&lt;/font&gt; &lt;/br&gt;Dual LLM-based agents for gesture understanding and grounding to system actions.">
+  <meta name="description" content="&lt;font color=&#34;#953100&#34;&gt;&lt;b&gt;arxiv. &lt;/b&gt;&lt;/font&gt; &lt;/br&gt;Triple-agent based LLM system for gesture understanding and grounding to system actions.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://txzhang.info/publication/gesturegpt/">
@@ -250,8 +250,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu4c2264ebd2c459e30bab1c5f50f17dd4_30374_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu4c2264ebd2c459e30bab1c5f50f17dd4_30374_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu9369918894587105486.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu16011817578423855070.png">
 
   <link rel="canonical" href="https://txzhang.info/publication/gesturegpt/">
 
@@ -268,7 +268,7 @@
   <meta property="og:site_name" content="Tengxiang ZHANG">
   <meta property="og:url" content="https://txzhang.info/publication/gesturegpt/">
   <meta property="og:title" content="GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents | Tengxiang ZHANG">
-  <meta property="og:description" content="&lt;font color=&#34;#953100&#34;&gt;&lt;b&gt;arxiv. &lt;/b&gt;&lt;/font&gt; &lt;/br&gt;Dual LLM-based agents for gesture understanding and grounding to system actions."><meta property="og:image" content="https://txzhang.info/publication/gesturegpt/featured.png">
+  <meta property="og:description" content="&lt;font color=&#34;#953100&#34;&gt;&lt;b&gt;arxiv. &lt;/b&gt;&lt;/font&gt; &lt;/br&gt;Triple-agent based LLM system for gesture understanding and grounding to system actions."><meta property="og:image" content="https://txzhang.info/publication/gesturegpt/featured.png">
   <meta property="twitter:image" content="https://txzhang.info/publication/gesturegpt/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -317,10 +317,10 @@
     "name": "Tengxiang ZHANG",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://txzhang.info/images/icon_hu4c2264ebd2c459e30bab1c5f50f17dd4_30374_192x192_fill_lanczos_center_3.png"
+      "url": "https://txzhang.info/images/icon_hu16011817578423855070.png"
     }
   },
-  "description": "\u003cfont color=\"#953100\"\u003e\u003cb\u003earxiv. \u003c/b\u003e\u003c/font\u003e \u003c/br\u003eDual LLM-based agents for gesture understanding and grounding to system actions."
+  "description": "\u003cfont color=\"#953100\"\u003e\u003cb\u003earxiv. \u003c/b\u003e\u003c/font\u003e \u003c/br\u003eTriple-agent based LLM system for gesture understanding and grounding to system actions."
 }
 </script>
 
@@ -776,7 +776,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/3491101.3519805" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/3698145" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -801,7 +801,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Current gesture recognition systems primarily focus on identifying gestures within a predefined set, leaving a gap in connecting these gestures to interactive GUI elements or system functions (e.g., linking a &rsquo;thumb-up&rsquo; gesture to a &rsquo;like&rsquo; button). We introduce GestureGPT, a novel zero-shot gesture understanding and grounding framework leveraging large language models (LLMs). Gesture descriptions are formulated based on hand landmark coordinates from gesture videos and fed into our dual-agent dialogue system. A gesture agent deciphers these descriptions and queries about the interaction context (e.g., interface, history, gaze data), which a context agent organizes and provides. Following iterative exchanges, the gesture agent discerns user intent, grounding it to an interactive function. We validated the gesture description module using public first-view and third-view gesture datasets and tested the whole system in two real-world settings-video streaming and smart home IoT control. The highest zero-shot Top-5 grounding accuracies are 80.11% for video streaming and 90.78% for smart home tasks, showing potential of the new gesture understanding paradigm.</p>
+    <p class="pub-abstract">Existing gesture interfaces only work with a fixed set of gestures defined either by interface designers or by users themselves, which introduces learning or demonstration efforts that diminish their naturalness. Humans, on the other hand, understand free-form gestures by synthesizing the gesture, context, experience, and common sense. In this way, the user does not need to learn, demonstrate, or associate gestures. We introduce GestureGPT, a free-form hand gesture understanding framework that mimics human gesture understanding procedures to enable a natural free-form gestural interface. Our framework leverages multiple Large Language Model agents to manage and synthesize gesture and context information, then infers the interaction intent by associating the gesture with an interface function. More specifically, our triple-agent framework includes a Gesture Description Agent that automatically segments and formulates natural language descriptions of hand poses and movements based on hand landmark coordinates. The description is deciphered by a Gesture Inference Agent through self-reasoning and querying about the interaction context (e.g., interaction history, gaze data), which is managed by a Context Management Agent. Following iterative exchanges, the Gesture Inference Agent discerns the user’s intent by grounding it to an interactive function. We validated our framework offline under two real-world scenarios-smart home control and online video streaming. The average zero-shot Top-1/Top-5 grounding accuracies are 44.79%/83.59% for smart home tasks and 37.50%/73.44% for video streaming tasks. We also provide an extensive discussion that includes rationale for model selection, generalizability, and future research directions for a practical system etc.</p>
     
 
     
@@ -813,8 +813,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -831,7 +831,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">arXiv</div>
+          <div class="col-12 col-md-9">Proceedings of the ACM on Human-Computer Interaction, Issue ISS</div>
         </div>
       </div>
       <div class="col-md-1"></div>

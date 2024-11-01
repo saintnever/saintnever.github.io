@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tag | Tengxiang ZHANG</title>
+    <title>Tag | Tengxiang ZHANG</title>
     <link>https://txzhang.info/tags/tag/</link>
       <atom:link href="https://txzhang.info/tags/tag/index.xml" rel="self" type="application/rss+xml" />
-    <description>tag</description>
+    <description>Tag</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024. Tengxiang Zhang</copyright><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>tag</title>
+      <title>Tag</title>
       <link>https://txzhang.info/tags/tag/</link>
     </image>
     

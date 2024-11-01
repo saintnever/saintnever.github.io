@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI agents | Tengxiang ZHANG</title>
+    <title>AI Agents | Tengxiang ZHANG</title>
     <link>https://txzhang.info/tags/ai-agents/</link>
       <atom:link href="https://txzhang.info/tags/ai-agents/index.xml" rel="self" type="application/rss+xml" />
-    <description>AI agents</description>
+    <description>AI Agents</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024. Tengxiang Zhang</copyright><lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>AI agents</title>
+      <title>AI Agents</title>
       <link>https://txzhang.info/tags/ai-agents/</link>
     </image>
     

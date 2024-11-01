@@ -1,9 +1,16 @@
 
-@misc{zeng2023gesturegpt,
-      title={GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents}, 
-      author={Xin Zeng and Xiaoyu Wang and Tengxiang Zhang and Chun Yu and Shengdong Zhao and Yiqiang Chen},
-      year={2023},
-      eprint={2310.12821},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{zeng_gesturegpt_2024,
+	title = {{GestureGPT}: {Toward} {Zero}-{Shot} {Free}-{Form} {Hand} {Gesture} {Understanding} with {Large} {Language} {Model} {Agents}},
+	volume = {8},
+	shorttitle = {{GestureGPT}},
+	url = {https://dl.acm.org/doi/10.1145/3698145},
+	doi = {10.1145/3698145},
+	abstract = {Existing gesture interfaces only work with a fixed set of gestures defined either by interface designers or by users themselves, which introduces learning or demonstration efforts that diminish their naturalness. Humans, on the other hand, understand free-form gestures by synthesizing the gesture, context, experience, and common sense. In this way, the user does not need to learn, demonstrate, or associate gestures. We introduce GestureGPT, a free-form hand gesture understanding framework that mimics human gesture understanding procedures to enable a natural free-form gestural interface. Our framework leverages multiple Large Language Model agents to manage and synthesize gesture and context information, then infers the interaction intent by associating the gesture with an interface function. More specifically, our triple-agent framework includes a Gesture Description Agent that automatically segments and formulates natural language descriptions of hand poses and movements based on hand landmark coordinates. The description is deciphered by a Gesture Inference Agent through self-reasoning and querying about the interaction context (e.g., interaction history, gaze data), which is managed by a Context Management Agent. Following iterative exchanges, the Gesture Inference Agent discerns the user’s intent by grounding it to an interactive function. We validated our framework offline under two real-world scenarios: smart home control and online video streaming. The average zero-shot Top-1/Top-5 grounding accuracies are 44.79\%/83.59\% for smart home tasks and 37.50\%/73.44\% for video streaming tasks. We also provide an extensive discussion that includes rationale for model selection, generalizability, and future research directions for a practical system etc.},
+	number = {ISS},
+	urldate = {2024-10-29},
+	journal = {Proc. ACM Hum.-Comput. Interact.},
+	author = {Zeng, Xin and Wang, Xiaoyu and Zhang, Tengxiang and Yu, Chun and Zhao, Shengdong and Chen, Yiqiang},
+	month = oct,
+	year = {2024},
+	pages = {545:462--545:499},
 }
